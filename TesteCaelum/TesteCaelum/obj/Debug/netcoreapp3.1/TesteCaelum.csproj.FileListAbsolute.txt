@@ -1,0 +1,14 @@
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\bin\Debug\netcoreapp3.1\TesteCaelum.exe
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\bin\Debug\netcoreapp3.1\TesteCaelum.deps.json
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\bin\Debug\netcoreapp3.1\TesteCaelum.runtimeconfig.json
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\bin\Debug\netcoreapp3.1\TesteCaelum.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\bin\Debug\netcoreapp3.1\TesteCaelum.dll
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\bin\Debug\netcoreapp3.1\TesteCaelum.pdb
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\obj\Debug\netcoreapp3.1\TesteCaelum.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\obj\Debug\netcoreapp3.1\TesteCaelum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\obj\Debug\netcoreapp3.1\TesteCaelum.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\obj\Debug\netcoreapp3.1\TesteCaelum.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\obj\Debug\netcoreapp3.1\TesteCaelum.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\obj\Debug\netcoreapp3.1\TesteCaelum.dll
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\obj\Debug\netcoreapp3.1\TesteCaelum.pdb
+C:\Users\Usuário\source\repos\TesteCaelum\TesteCaelum\obj\Debug\netcoreapp3.1\TesteCaelum.genruntimeconfig.cache
